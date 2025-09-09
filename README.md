@@ -9,7 +9,7 @@ This project is a simple, responsive one-page portfolio built with HTML, CSS, an
 ## 🚀 **🌐 LIVE DEMO**
 
 <p align="center">
-  <a href="https://<your-github-username>.github.io/<your-repo>/" style="font-size:2rem;"><b>🔗 VISIT MY PORTFOLIO</b></a>
+  <a href="https://ritishasood.github.io/My_Portfolio-beginner/" style="font-size:2rem;"><b>🔗 VISIT MY PORTFOLIO</b></a>
 </p>
 
 ---
