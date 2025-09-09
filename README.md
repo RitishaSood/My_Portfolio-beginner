@@ -4,6 +4,16 @@ Welcome to the source code for **Ritisha Sood's Portfolio Website**!
 
 This project is a simple, responsive one-page portfolio built with HTML, CSS, and JavaScript. It is perfect for showcasing your skills, projects, and contact information as a web developer.
 
+---
+
+## 🚀 **🌐 LIVE DEMO**
+
+<p align="center">
+  <a href="https://<your-github-username>.github.io/<your-repo>/" style="font-size:2rem;"><b>🔗 VISIT MY PORTFOLIO</b></a>
+</p>
+
+---
+
 ## 🌟 Features
 
 - **Modern, clean design**  
